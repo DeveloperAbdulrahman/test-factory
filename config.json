@@ -1,0 +1,21 @@
+{
+    "db": {
+        "database": "testfactory",
+        "username": "admin",
+        "password": "$#!&^%admin*^%$#12345",
+        "logging": false,
+        "host": "test-factory-db.csfi3rzjf0po.ap-southeast-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "jwt": {
+        "secret": "testfactorysecretjwt"
+    },
+    "permissions": {
+        "viewer": []
+    },
+    "role": {
+        "admin": 1,
+        "user": 2
+    },
+    "userTestUrl": "http://18.140.56.176/filltest/"
+}

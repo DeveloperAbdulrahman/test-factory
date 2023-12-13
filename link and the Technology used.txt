@@ -1,0 +1,6 @@
+Frontend react.js
+Backend Node.js (express)
+Mysql db
+
+link for the system
+http://18.140.56.176/
